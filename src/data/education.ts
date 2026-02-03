@@ -11,8 +11,8 @@ interface Education {
 const  education: Education[] = [
     {
         title: "Cursos de Especialización Mastermind",
-        startDate: "2023-09-01",
-        endDate: "2025-06-30",
+        startDate: "2024-09-01",
+        endDate: "2026-06-30",
         school: "Mastermind Acadmy",
         location: "Academia Online",
         description: "",
@@ -20,8 +20,8 @@ const  education: Education[] = [
     },
     {
         title: "Desarrollo de Aplicaciones Multiplataforma",
-        startDate: "2022-09-01",
-        endDate: "2023-06-30",
+        startDate: "2021-09-01",
+        endDate: "2022-06-30",
         school: "IES Santiago Hernández",
         location: "Zaragoza, España",
         description: "Grado Superior",

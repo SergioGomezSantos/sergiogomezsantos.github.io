@@ -46,7 +46,7 @@ const workExperience:WorkExperience[] = [
     {
         title: "Desarrollador Backend",
         startDate: "2020-09-07",
-        endDate: "2022-06-20",
+        endDate: "2024-06-20",
         company: "Nodriza Tech",
         location: "Zaragoza, España",
         description: "Desarrollo y mantenimiento de páginas web utilizando PHP, Symfony, MySQL ",
